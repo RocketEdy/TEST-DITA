@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="feature_desc_default_timeouts_sleep_screen_winos">
+    <title>The default timeouts for sleep and the built-in screen</title>
+    <body>
+        <p>The operating system of your PC has the following timeouts enabled by default. You can
+            adjust them to suit your preference. <note id="note_xrp_j34_y1c">Setting appropriate
+                timeouts is an effective way to save energy. Avoid settings excessively long
+                timeouts to effectively disable this power-saving feature. </note></p>
+        <fig>
+            
+        </fig>
+        <table frame="topbot" rowsep="1" colsep="1" id="table_s1x_ph4_y1c">
+            <title>Default timeouts</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Power saving action</entry>
+                        <entry>Power state</entry>
+                        <entry>Timeout</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="1">Turn off the screen</entry>
+                        <entry>Plugged in</entry>
+                        <entry>5 minutes</entry>
+                    </row>
+                    <row>
+                        <entry>On battery</entry>
+                        <entry>5 minutes</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1">Put the PC into sleep mode</entry>
+                        <entry>Plugged in</entry>
+                        <entry>3 minutes</entry>
+                    </row>
+                    <row>
+                        <entry>On battery </entry>
+                        <entry>3 minutes</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <note id="note_yc1_2j4_y1c">To wake the PC from sleep mode, press the power button or any
+            key on the keyboard. </note>
+    </body>
+</topic>
