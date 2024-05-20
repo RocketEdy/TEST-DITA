@@ -10,7 +10,7 @@
         <fig>
             
         </fig>
-        <table frame="topbot" rowsep="1" colsep="1" id="table_s1x_ph4_y1c">
+        <table frame="topbot" rowsep="1" colsep="1">
             <title>Default timeouts</title>
             <tgroup cols="3">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
